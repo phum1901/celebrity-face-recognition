@@ -1,0 +1,7 @@
+/lightning_logs
+/rawdata
+/venv
+__pycache__
+/wandb
+/celeb-face
+/artifacts
